@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   </a> 
 </p> <p>&nbsp;</p> <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dennis&theme=gotham&hide=java,javascript,html,css&layout=compact" alt="Dennis" />
-<br><br><br><br><br><br><br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DennisCalderon&theme=gotham&hide=java,javascript,html,css&layout=compact" alt="DennisCalderon" />
+<br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DennisCalderon&show_icons=true&locale=en&count_private=true&theme=gotham" alt="DennisCalderon" />
+<br><br><br><br><br><br><br>
 
